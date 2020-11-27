@@ -1,0 +1,121 @@
+Pathway,Total,Expected,Hits,P.Value,FDR
+Regulation of cell cycle,886,57.3,227,1.75e-80,1.43e-77
+Mitotic cell cycle,968,62.6,237,5.53e-80,2.27e-77
+Regulation of molecular function,2250,145,372,5.78e-78,1.58e-75
+Regulation of cellular protein metabolic process,1560,101,301,8.74e-77,1.79e-74
+Regulation of protein metabolic process,1820,118,328,2.74e-76,4.5e-74
+Regulation of protein modification process,1250,80.7,264,5.96e-75,8.15e-73
+Interphase of mitotic cell cycle,435,28.1,150,4.98e-71,5.83e-69
+Interphase,443,28.6,151,1.02e-70,1.05e-68
+Regulation of catalytic activity,1730,112,308,1.32e-69,1.21e-67
+Cell cycle,1860,120,319,1.75e-68,1.43e-66
+Cell cycle phase,1070,69.4,233,1.68e-67,1.25e-65
+Cell cycle process,1420,91.5,270,1.69e-66,1.16e-64
+Positive regulation of metabolic process,2690,174,380,1.05e-59,6.61e-58
+Positive regulation of cellular metabolic process,2530,163,363,2.52e-58,1.48e-56
+Negative regulation of cell cycle,520,33.6,143,1.85e-53,1.01e-51
+Positive regulation of cellular protein metabolic process,968,62.6,200,2e-53,1.03e-51
+Cell cycle arrest,428,27.7,129,4.23e-53,2.04e-51
+Negative regulation of protein metabolic process,540,34.9,145,8.46e-53,3.85e-51
+Positive regulation of protein metabolic process,1080,70,212,1.02e-52,4.4e-51
+Cell cycle checkpoint,281,18.2,104,2.61e-52,1.07e-50
+Regulation of mitotic cell cycle,351,22.7,115,1.85e-51,7.23e-50
+G1/S transition of mitotic cell cycle,209,13.5,89,7.84e-51,2.92e-49
+Positive regulation of protein modification process,867,56.1,184,1.1e-50,3.92e-49
+Negative regulation of cellular protein metabolic process,463,29.9,131,2.05e-50,7.02e-49
+Regulation of phosphorylation,1070,69,206,4.48e-50,1.47e-48
+Positive regulation of catalytic activity,1070,69.1,204,1.05e-48,3.32e-47
+Regulation of protein phosphorylation,987,63.8,194,3.54e-48,1.07e-46
+Mitotic cell cycle checkpoint,149,9.64,72,6.37e-46,1.87e-44
+Protein phosphorylation,1480,96,242,1.34e-45,3.78e-44
+Negative regulation of cellular process,4110,266,460,2.37e-44,6.49e-43
+Cell division,507,32.8,128,2.88e-43,7.63e-42
+Phosphorylation,1680,109,256,4.03e-43,1.03e-41
+Regulation of cellular component organization,1520,98.6,241,4.98e-43,1.24e-41
+Positive regulation of cellular process,4780,309,505,8.94e-43,2.16e-41
+Regulation of transferase activity,768,49.7,160,1.19e-42,2.79e-41
+Negative regulation of catalytic activity,568,36.7,135,1.78e-42,4.03e-41
+Negative regulation of biological process,4590,297,491,1.82e-42,4.03e-41
+Response to organic substance,2500,162,327,6.75e-42,1.46e-40
+Enzyme linked receptor protein signaling pathway,1180,76,203,1.79e-41,3.76e-40
+Regulation of kinase activity,743,48,155,2.44e-41,5e-40
+Regulation of protein kinase activity,698,45.1,149,6.1e-41,1.22e-39
+Wound healing,700,45.3,149,8.77e-41,1.71e-39
+Protein modification process,3290,213,389,1.13e-40,2.16e-39
+Cell morphogenesis involved in differentiation,827,53.5,163,3.21e-40,5.95e-39
+Cell proliferation,1900,123,271,3.26e-40,5.95e-39
+Protein catabolic process,644,41.6,141,5.29e-40,9.44e-39
+Regulation of signal transduction,2440,157,316,2.06e-39,3.59e-38
+Anatomical structure formation involved in morphogenesis,2090,135,286,2.21e-39,3.78e-38
+Regulation of programmed cell death,1550,100,236,4.8e-39,8.03e-38
+Negative regulation of metabolic process,1820,118,261,5.68e-39,9.31e-38
+Negative regulation of cellular metabolic process,1660,108,246,8.48e-39,1.36e-37
+Regulation of apoptotic process,1540,99.3,233,2.08e-38,3.28e-37
+Anatomical structure morphogenesis,2820,182,344,7.68e-38,1.19e-36
+Cell development,1840,119,260,1.48e-37,2.24e-36
+Response to chemical stimulus,3830,248,422,3.01e-37,4.49e-36
+Coagulation,568,36.7,127,6e-37,8.79e-36
+Macromolecule modification,3430,222,390,1.09e-36,1.57e-35
+Regulation of developmental process,1880,121,261,1.35e-36,1.9e-35
+Programmed cell death,2160,139,285,2.5e-36,3.48e-35
+Hemostasis,570,36.9,126,4.1e-36,5.61e-35
+Blood coagulation,564,36.5,125,6.05e-36,8.13e-35
+Apoptotic process,2130,138,281,1.32e-35,1.72e-34
+Apoptotic process,2130,138,281,1.32e-35,1.72e-34
+Intracellular signal transduction,2450,158,308,1.73e-35,2.22e-34
+S phase,153,9.89,63,4.17e-35,5.27e-34
+S phase of mitotic cell cycle,144,9.31,61,7.06e-35,8.77e-34
+Transmembrane receptor protein tyrosine kinase signaling pathway,782,50.6,149,7.31e-35,8.95e-34
+Positive regulation of transcription from RNA polymerase II promoter,800,51.7,151,7.49e-35,9.03e-34
+Cell surface receptor signaling pathway,3340,216,376,4.89e-34,5.81e-33
+Regulation of organelle organization,589,38.1,125,6.14e-34,7.2e-33
+Response to stress,4150,268,437,6.35e-34,7.34e-33
+"Positive regulation of transcription, DNA_dependent",1260,81.4,197,7.21e-34,8.1e-33
+"Positive regulation of transcription, DNA_dependent",1260,81.4,197,7.21e-34,8.1e-33
+Regulation of transcription from RNA polymerase II promoter,1610,104,230,1.11e-33,1.23e-32
+Positive regulation of cellular component organization,560,36.2,121,1.22e-33,1.34e-32
+Regulation of body fluid levels,680,44,135,1.88e-33,2.03e-32
+Cellular response to stress,1620,105,231,2.03e-33,2.16e-32
+Response to wounding,1310,84.9,201,3.47e-33,3.64e-32
+Cellular protein catabolic process,518,33.5,115,4.06e-33,4.22e-32
+Vasculature development,652,42.2,131,5.32e-33,5.46e-32
+Positive regulation of RNA metabolic process,1330,86.2,201,2.99e-32,3.03e-31
+Mitosis,420,27.2,101,3.68e-32,3.68e-31
+Neurogenesis,1390,90,206,5.49e-32,5.43e-31
+Positive regulation of nucleobase_containing compound metabolic process,1490,96.4,215,7.91e-32,7.72e-31
+Signal transduction in response to DNA damage,129,8.34,55,1.01e-31,9.74e-31
+G2/M transition of mitotic cell cycle,150,9.7,59,1.27e-31,1.21e-30
+Positive regulation of biological process,5500,355,525,1.4e-31,1.32e-30
+Cell migration,1050,68.2,172,1.49e-31,1.39e-30
+Embryo development,1080,70.1,175,1.56e-31,1.44e-30
+Regulation of response to stimulus,3360,217,371,1.63e-31,1.48e-30
+Regulation of anatomical structure morphogenesis,702,45.4,134,2.35e-31,2.12e-30
+Response to endogenous stimulus,1360,88.2,202,2.58e-31,2.3e-30
+Generation of neurons,1300,84.3,196,3.4e-31,3e-30
+Regulation of cell proliferation,1430,92.3,207,8.03e-31,7.01e-30
+M phase of mitotic cell cycle,447,28.9,102,1.97e-30,1.7e-29
+Macromolecule catabolic process,1070,69.3,171,3.54e-30,2.99e-29
+Macromolecule catabolic process,1070,69.3,171,3.54e-30,2.99e-29
+Positive regulation of developmental process,817,52.8,144,7.6e-30,6.36e-29
+Response to external stimulus,1510,97.7,212,1.25e-29,1.04e-28
+Organ morphogenesis,966,62.5,159,1.67e-29,1.37e-28
+Axonogenesis,578,37.4,116,3.82e-29,3.1e-28
+Negative regulation of response to stimulus,967,62.5,158,6.09e-29,4.9e-28
+Positive regulation of phosphorylation,697,45.1,129,8.42e-29,6.7e-28
+Regulation of cell adhesion,294,19,79,9.71e-29,7.66e-28
+MAPK cascade,665,43,125,1.46e-28,1.14e-27
+Regulation of catabolic process,595,38.5,117,1.49e-28,1.15e-27
+Neuron differentiation,1190,76.7,179,1.52e-28,1.16e-27
+Positive regulation of signal transduction,998,64.5,160,2.32e-28,1.76e-27
+Negative regulation of signal transduction,790,51.1,138,3.62e-28,2.72e-27
+Intracellular protein kinase cascade,1140,73.5,173,5.18e-28,3.86e-27
+Protein polyubiquitination,177,11.4,60,5.4e-28,3.99e-27
+"DNA damage response, signal transduction by p53 class mediator",117,7.57,49,6.04e-28,4.42e-27
+Epidermal growth factor receptor signaling pathway,167,10.8,58,9.9e-28,7.18e-27
+Positive regulation of protein phosphorylation,681,44,125,1.5e-27,1.08e-26
+M phase,671,43.4,123,4.73e-27,3.37e-26
+Negative regulation of programmed cell death,691,44.7,125,6.16e-27,4.35e-26
+Regulation of MAPK cascade,559,36.2,110,7.05e-27,4.94e-26
+Tissue development,1680,109,221,1.01e-26,7.05e-26
+DNA integrity checkpoint,152,9.83,54,1.89e-26,1.3e-25
+Tissue morphogenesis,566,36.6,110,2.12e-26,1.45e-25
